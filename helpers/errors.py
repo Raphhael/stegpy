@@ -1,0 +1,5 @@
+
+class StegPyException(Exception):
+    pass
+
+
